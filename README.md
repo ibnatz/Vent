@@ -23,12 +23,12 @@ This repository was pushed after initial local development. Commits begin from a
 
 ### To run the project:
 
-+ 1. Clone the repo
+1. Clone the repo
 
 git clone https://github.com/ibnatz/Vent.git
 
-+ 2. Open the project in Android Studio
+2. Open the project in Android Studio
 
-+ 3. Connect an Android device or start an emulator
+3. Connect an Android device or start an emulator
 
 4. Click Run or press Shift + F10
