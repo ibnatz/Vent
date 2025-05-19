@@ -2,7 +2,6 @@ Vent is a clean and simple Android app for writing and editing personal notes, b
 
 
 
-
 Features:
 
 Create, edit, and save notes full of your venting paragraphs as much as you wish
