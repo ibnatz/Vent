@@ -4,13 +4,13 @@ Vent is a clean and simple Android app for writing and editing personal notes, b
 
 Features:
 
-Create, edit, and save notes full of your venting paragraphs as much as you wish
+> Create, edit, and save notes full of your venting paragraphs as much as you wish
 
-Delete all of your secretive, sensitive venting sessions in one go
+> Delete all of your secretive, sensitive venting sessions in one go
 
-Simple, clean UI with the background involving my personal art which depicts a subconscious imagery of emotional breakdowns
+> Simple, clean UI with the background involving my personal art which depicts a subconscious imagery of emotional breakdowns
 
-Firebase integration for secure, real-time data handling
+> Firebase integration for secure, real-time data handling
 
 
 
@@ -22,7 +22,6 @@ This repository was pushed after initial local development. Commits begin from a
 
 
 
-Getting Started:
 
 To run the project:
 
