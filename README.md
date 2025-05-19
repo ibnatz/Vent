@@ -1,8 +1,6 @@
-Vent is a clean and simple Android app for writing and editing personal notes, built using Java in Android Studio.
+## Vent is a clean and simple Android app for writing and editing personal notes, built using Java in Android Studio
 
-
-
-Features:
+It has the following features:
 
 > Create, edit, and save notes full of your venting paragraphs as much as you wish
 
@@ -15,7 +13,7 @@ Features:
 
 
 
-About the "Vent" repository:
+### About the "Vent" repository:
 
 This repository was pushed after initial local development. Commits begin from a major EditNotes bug fix, but the app was functional and tested beforehand.
 
@@ -23,14 +21,14 @@ This repository was pushed after initial local development. Commits begin from a
 
 
 
-To run the project:
+### To run the project:
 
-1. Clone the repo
++ 1. Clone the repo
 
 git clone https://github.com/ibnatz/Vent.git
 
-2. Open the project in Android Studio
++ 2. Open the project in Android Studio
 
-3. Connect an Android device or start an emulator
++ 3. Connect an Android device or start an emulator
 
 4. Click Run or press Shift + F10
